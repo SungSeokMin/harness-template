@@ -1,0 +1,11 @@
+{
+  "templateVersion": "0.1.0",
+  "setupCompleted": false,
+  "packages": [
+    {
+      "path": ".",
+      "profiles": [],
+      "checks": []
+    }
+  ]
+}

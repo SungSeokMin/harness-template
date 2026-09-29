@@ -1,0 +1,13 @@
+_workspace/
+_workspace_*/
+.claude/settings.local.json
+.DS_Store
+
+# 시크릿 — 예시 파일만 커밋한다
+.env
+.env.*
+!.env.example
+!.env.sample
+!.env.template
+*.pem
+*.key
